@@ -93,7 +93,6 @@ Group by cl.Rango_Etario,
 Order by cl.Rango_Etario,
 		Venta Desc;
 
-- La opción 2 es la más performante.
 ```
 3)
 ```sql
@@ -124,6 +123,7 @@ Group by cl.Rango_Etario,
 Order by cl.Rango_Etario,
 		Venta Desc;
 ```
+# RESPUESTA: - La opción 2 es la más performante.
 
 ### 10) El negocio suele requerir con gran frecuencia consultas a nivel trimestral tanto sobre las ventas, como las compras y los gastos...
 #### Elige la opción correcta:
