@@ -1,5 +1,6 @@
 # Proyecto_Tiendas_Informatica
 Limpieza, normalización y queries en MySQL
+Ingesta de los archivos CSV con WIZARD IMPORT de Workbench.
 
 ### CONSIGNAS
 
