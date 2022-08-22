@@ -92,6 +92,8 @@ Group by cl.Rango_Etario,
 		tp.TipoProducto
 Order by cl.Rango_Etario,
 		Venta Desc;
+
+- La opción 2 es la más performante.
 ```
 3)
 ```sql
